@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product Id="0" Name="Honda Civic" Description="Honda Civic 0" ExpirationDate="2021-10-19T19:20:16.2379928" DateOfProduction="2020-11-30T04:40:53.2426873" Quantity="-885013446" Price="-139297860" />
+  <Product Name="Honda Civic" Description="Honda Civic puste id" ExpirationDate="2021-10-19T19:31:14.0473329" DateOfProduction="2021-03-24T16:27:54.5426759" Quantity="-1460009519" Price="-566562240" />
+</Products>
